@@ -1,10 +1,25 @@
-function exerciseByronThePoodle() {
-  console.log("Wake Byron the poodle");
-  console.log("Leash Byron the poodle");
-  console.log("Walk to the park with Byron the poodle");
-  console.log("Throw the frisbee for Byron the poodle");
-  console.log("Walk home with Byron the poodle");
-  console.log("Unleash Byron the poodle");
+function wakeDog(dogName, dogBreed){
+  let string = 
+}
+
+function leashDog(dogName, dogBreed){
+  
+}
+
+function walkToPark(dogName, dogBreed){
+
+}
+
+function throwFrisbee(dogName, dogBreed){
+  
+}
+
+function walkHome(dogName, dogBreed){
+  
+}
+
+function unleashDog(dogName, dogBreed){
+  
 }
 
 function exerciseDog(dogName, dogBreed) {

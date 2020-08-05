@@ -38,8 +38,8 @@ let routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog
 
 function exerciseDog(dogName, dogBreed){
   let results = [];
-  for (var key in routine) {
-    results.unshift(routine[key](dogName, dogBreed)); 
+  for (var i = 0; i < routine.length; i++) {
+    results.unshift(routine[i](dogName, dogBreed)); 
   }
 }
 
